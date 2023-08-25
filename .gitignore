@@ -164,3 +164,6 @@ poetry.lock
 
 # iOS
 xcuserdata/
+
+# Datasets
+**/dataset
